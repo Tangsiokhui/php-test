@@ -3,7 +3,7 @@
 class car{
 	public $name,
 	public $brand,
-	public $warna,
+	public $colour,
 	public $speedMax,
 	public $numCustomer;
 
@@ -16,6 +16,6 @@ class car{
 	}
 
 	public function replace transmission{
-		
+
 	}
 }
