@@ -7,11 +7,11 @@ class car{
 	public $speedMax,
 	public $numCustomer;
 
-	public function increases speed(){
+	public function increasesSpeed(){
 
 	}
 
-	public function decrease speed(){
+	public function decreaseSpeed(){
 
 	}
 
